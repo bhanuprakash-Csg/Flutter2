@@ -4,27 +4,4 @@ wo version of user interface
 
 
 
-Agent installtions: 
-one agent --> name of  the agent 
-
-steps 
- select deployment 
-select  the VMS like windows, ubuntu, kubernetes, etc 
-in host you the installed agent machine 
-
-
-
-                                                                         
-
-steps 
- select deployment 
-select  the VMS like windows, ubuntu, kubernetes, etc 
-in host you the installed agent machine 
-
-collecting the all data related metrices network issue 
-cpu utlization, disk out utilization,
-unexpected high traffic 
-
-
-problems are record by dtntrace like last one hour  day before yesterday
 
