@@ -1,0 +1,14 @@
+wo version of user interface 
+1. classic 
+2.latest
+
+
+
+Agent installtions: 
+one agent --> name of  the agent 
+
+steps 
+ select deployment 
+select  the VMS like windows, ubuntu, kubernetes, etc 
+in host you the installed agent machine 
+
